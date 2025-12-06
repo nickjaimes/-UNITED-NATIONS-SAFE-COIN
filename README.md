@@ -1,4 +1,4 @@
-#SAFE COIN: Quantum-AI Digital Currency System 🌍⚛️🧠
+SAFE COIN: Quantum-AI Digital Currency System 🌍⚛️🧠
 
 https://img.shields.io/badge/SAFE-COIN-blueviolet
 https://img.shields.io/badge/Version-2.0.0-green
